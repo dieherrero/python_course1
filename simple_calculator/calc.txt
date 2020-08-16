@@ -1,1 +1,2 @@
-Output a simple calculator.
+main.py output a simple calculator.
+calculator.py works in terminal
